@@ -2,9 +2,9 @@
 
 ## Overview
 
-This project investigates the relationship HIV-1 RNA and CD4 T-cell counts following an antiviral regiman using longitudinal analysis. 
+This project investigates the relationship between HIV-1 RNA and CD4 T-cell counts following an antiviral regimen using longitudinal analysis. 
 Using data from the ACTG Protocol 315, linear and nonlinear models were compared to evaluate patient-specific trajectories and overall population trends. 
-Model performance was assessed using diagnostic plots and Akaike Information Criteria (AIC), with nonlinear mixed-effects models providing the strongest fit to the data.
+Model performance was assessed using diagnostic plots and Akaike Information Criterion (AIC), with nonlinear mixed-effects models providing the strongest fit to the data.
 
 ## Objectives
 
